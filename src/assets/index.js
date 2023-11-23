@@ -1,0 +1,38 @@
+import image1 from './image-1.jpeg'
+import image2 from './image-2.jpg'
+import image3 from './image-3.jpeg'
+import image4 from './image-4.jpg'
+import image5 from './image-5.jpg'
+import image6 from './image-6.jpg'
+import image7 from './image-7.jpeg'
+import image8 from './image-8.jpeg'
+import image9 from './image-9.webp'
+import image10 from './image-10.jpg'
+import image11 from './image-11.jpg'
+import image12 from './image-12.jpg'
+import image13 from './image-13.jpg'
+import image14 from './image-14.jpg'
+import image15 from './image-15.jpg'
+import image16 from './image-16.jpeg'
+import image17 from './image-17.webp'
+import image18 from './image-18.jpg'
+import image19 from './image-19.jpg'
+import image20 from './image-20.jpg'
+import image21 from './image-21.jpg'
+import image22 from './image-22.webp'
+import image23 from './image-23.jpg'
+import image24 from './image-24.jpeg'
+import image25 from './image-25.jpeg'
+import image26 from './image-26.webp'
+import image27 from './image-27.jpg'
+import image28 from './image-28.jpg'
+import image29 from './image-29.jpg'
+import image30 from './image-30.jpg'
+import image31 from './image-31.jpg'
+import image32 from './image-32.jpeg'
+
+const Gallery = [
+  image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18,image19,image20,image21,image22,image23,image24,image25,image26,image27,image28,image29,image30,image31
+]
+
+export default Gallery
